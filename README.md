@@ -3,9 +3,9 @@
 ```typescript
 // Developer info
 const developer = {
-  name: "Tu Nombre",
+  name: "Renzo",
   role: "Frontend Developer",
-  specialties: ["Angular", "UI Design", "User Interaction"],
-  passions: ["Frontend Innovation", "Creative Coding", "Problem Solving"],
+  specialties: ["Angular", "CSS", "HTML", "Figma", "UI Design", "User Interaction"],
+  passions: ["Frontend Innovation", "Clean Code", "Problem Solving"],
 };
 
