@@ -1,4 +1,4 @@
-<img src="assets/profile-github.png"/>
+<img src="assets/profile-github.PNG"/>
 
 ```typescript
 const aboutMe = {
