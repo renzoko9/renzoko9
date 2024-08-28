@@ -8,9 +8,10 @@
     <h3>Hello, Renzo here!</h3>
     <small>Frontend Developer | UI Design</small>
     <div style="display: flex; gap: 12px; justify-content: center">
-    <img src="assets/angular.png" width="20"/>
-    <img src="assets/angular.png" width="20"/>
-    <img src="assets/angular.png" width="20"/>
+    <img src="assets/angular.png" height="20"/>
+    <img src="assets/figma.png" height="20"/>
+    <img src="assets/html.png" height="20"/>
+    <img src="assets/css.png" height="20"/>
     </div>
 </div>
 </div>
